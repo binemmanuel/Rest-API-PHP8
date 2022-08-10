@@ -1,0 +1,23 @@
+{
+	"name": "binemmanuel/myapp_backend",
+	"description": "My app's backend",
+	"type": "project",
+	"require": {
+		"binemmanuel/servemyphp": "^1.0.3",
+		"vlucas/phpdotenv": "^5.4.0"
+	},
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/",
+			"Model\\": "src/models/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Bin Emmanuel",
+			"email": "53215111+binemmanuel@users.noreply.github.com"
+		}
+	],
+	"minimum-stability": "dev"
+}
