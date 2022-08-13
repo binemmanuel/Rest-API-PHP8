@@ -1,5 +1,3 @@
-# Serve My PHP
-
 To follow my video (https://youtu.be/sPfpEoaILls) you'll need to clone this branch of the repository
 
 ## Installation
